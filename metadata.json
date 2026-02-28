@@ -1,0 +1,8 @@
+{
+  "name": "ArtTheory Pro",
+  "description": "专为艺术学考研学子打造的智能学习平台。集成了录播课程观看、课后习题演练、艾宾浩斯错题复习、游戏化积分排行，以及支持语音和拍照的 AI 考研学长（小烨学姐）实时辅导功能。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
